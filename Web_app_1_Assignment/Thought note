@@ -1,0 +1,4 @@
+First i create-react-app sales-app and then in src folder create components folder and add components like AddSales, Login, Navbar and Register. 
+
+I used context api in react to manage state and pass it into different components. I used context api for finding top5 components as well as totalrevenue.
+
